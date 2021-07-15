@@ -14,7 +14,7 @@ Stacked Dense Inception U-Net for liver tumor segmentation
 
 Next, I plan to combine segmentation with classification. The model will not only segment the tumor, but also name the type of the tumor. Yes, I need a doctor (to teach me some medical knowledge about liver lesion). Tired of teaching myself :(
 
-Currently, our lab is colaborating with a hospital. However, well-labeled data are really hard to get. I am currently working on few-shot learning. (Sadly, Prototype Net based models do not work well on this task)
+Currently, our lab is collaborating with a hospital. However, well-labeled data are really hard to get. (My boss is trying to make me labeling those CT images... what??) I am currently working on few-shot learning. (Sadly, Prototype Net based models do not work well on this task)
 
 ## Philosophy
 Most people in this world are simply doing meta learning through their whole life.
