@@ -17,4 +17,4 @@ Next, I want to combine segmentation with classification. The model should not o
 Currently, our lab is colaborating with a hospital. However, well-labeled data are really hard to get. I am currently working on few-shot learning. (Sadly, Prototype Net based models do not work well on this task)
 
 ## Philosophy
-Most people in this world is simply doing meta learning through their whole life.
+Most people in this world are simply doing meta learning through their whole life.
