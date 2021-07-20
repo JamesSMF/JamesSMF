@@ -10,7 +10,7 @@
 ## Current Work
 Stacked Dense Inception U-Net for liver tumor segmentation
 + liver: 95.09% Dice global
-+ Tumor: 75.1% Dice global
++ Tumor: 77.7% Dice global
 
 Next, I plan to combine segmentation with classification. The model will not only segment the tumor, but also name the type of the tumor. Yes, I need a doctor (to teach me some medical knowledge about liver lesion). Tired of teaching myself :(
 
