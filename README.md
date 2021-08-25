@@ -12,7 +12,8 @@ Stacked Dense Inception U-Net for liver tumor segmentation
 + liver: 95.09% Dice global
 + Tumor: 77.7% Dice global
 
-Few-shot learning on Medical Image Classification\n
+Few-shot learning on Medical Image Classification
+
 In Progress. I just came up with an idea recently. I will not post the detail 
 until the paper is issued successfully.
 
