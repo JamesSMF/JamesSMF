@@ -12,9 +12,9 @@ Stacked Dense Inception U-Net for liver tumor segmentation
 + liver: 95.09% Dice global
 + Tumor: 77.7% Dice global
 
-Next, I plan to combine segmentation with classification. The model will not only segment the tumor, but also name the type of the tumor. Yes, I need a doctor (to teach me some medical knowledge about liver lesion). Tired of teaching myself :(
-
-Currently, our lab is collaborating with a hospital. However, well-labeled data are really hard to get. (My boss is trying to make me labeling those CT images... what??) I am currently working on few-shot learning. (Sadly, Prototype Net based models do not work well on this task)
+Few-shot learning on Medical Image Classification
+In Progress. I just came up with an idea recently. I will not post the detail 
+until the paper is issued successfully.
 
 ## Philosophy
 Most people in this world are simply doing meta learning through their whole life.
